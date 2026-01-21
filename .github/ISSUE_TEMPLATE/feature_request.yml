@@ -1,0 +1,48 @@
+name: Feature request
+description: Suggest a new feature or enhancement for Packet Capture Pro
+title: "[Feature] "
+labels:
+  - enhancement
+assignees:
+  - PacketCapturePro
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is used to propose new features or enhancements for Packet Capture Pro.
+        Please describe your use case as clearly as possible so we can evaluate feasibility and priority.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: Describe the problem or limitation you are currently facing.
+      placeholder: |
+        I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: Describe the feature or behavior you would like to see.
+      placeholder: |
+        I would like Packet Capture Pro to support...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: Describe any alternative solutions or workarounds you have tried.
+      placeholder: |
+        Other tools, settings, or workflows you have tested.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, screenshots, or references that may help explain the request.
+      placeholder: Drag and drop images or paste links here.
+    validations:
+      required: false

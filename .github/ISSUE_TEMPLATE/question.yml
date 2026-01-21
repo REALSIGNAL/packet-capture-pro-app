@@ -1,0 +1,69 @@
+name: Question
+description: Ask a usage or operation question about Packet Capture Pro
+title: "[Question] "
+labels:
+  - question
+assignees:
+  - PacketCapturePro
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for usage questions or how-to issues.
+        If you believe you have found a bug or want to request a new feature,
+        please use the appropriate issue template instead.
+  - type: textarea
+    id: question
+    attributes:
+      label: Describe the question
+      description: A clear and concise description of what you are confused about or trying to achieve.
+      placeholder: |
+        I don't understand how to...
+        How can I capture traffic from...
+    validations:
+      required: true
+  - type: textarea
+    id: steps-tried
+    attributes:
+      label: What have you tried?
+      description: Describe what you have already tried before asking this question.
+      placeholder: |
+        I followed the documentation and tried...
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ### Environment Information
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: e.g. Android
+      placeholder: Android
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS Version
+      description: e.g. Android 13, Android 14
+      placeholder: Android 14
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Version of Packet Capture Pro
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots that may help explain your question.
+      placeholder: Drag and drop images here.
+    validations:
+      required: false

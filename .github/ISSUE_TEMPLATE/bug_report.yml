@@ -1,0 +1,83 @@
+name: Bug report
+description: Create a report to help us improve
+title: "[Bug] "
+labels:
+  - bug
+assignees:
+  - PacketCapturePro
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug.
+        Please fill out the information below to help us reproduce and fix the issue more efficiently.
+  - type: textarea
+    id: describe-bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+      placeholder: Drag and drop images here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ### Environment Information
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: e.g. Android / Windows / macOS / Linux
+      placeholder: Android
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS Version
+      description: e.g. Android 14, macOS 14.1
+      placeholder: Android 14
+    validations:
+      required: true
+  - type: input
+    id: arch
+    attributes:
+      label: Architecture
+      description: e.g. arm64, x86_64
+      placeholder: arm64
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Version of Packet Capture Pro
+      placeholder: 1.0.0
+    validations:
+      required: true
