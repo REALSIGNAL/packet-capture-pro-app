@@ -1,5 +1,7 @@
 # Packet Capture Pro
 
+[中文版本](README_CN.md)
+
 ⚠️ **Note: Packet Capture Pro is a closed-source project. This repository is only used for managing requirements and user feedback.**
 
 [Packet Capture Pro](https://pcp.realsignal.com/) is a next-generation advanced cross-platform packet capture tool. Packet Capture Pro features cross-platform support, no Root required, lightweight, high performance, and real-time synchronization, with the philosophy of making network debugging faster and simpler, helping developers and technical personnel improve productivity! Now supports Android, iOS, Windows, and macOS platforms.
@@ -117,15 +119,15 @@ You can get the app for free from the App Store.
 
 ### Windows Installation
 
-Coming soon
+Download from the official website: [Click here](https://pcp.realsignal.com/)
 
 On Windows, you will download `Setup.exe`, just follow the Setup installer instructions.
 
 ### macOS Installation
 
-Coming soon
+Download from the official website: [Click here](https://pcp.realsignal.com/)
 
-On macOS devices, Packet Capture Pro provides installation packages for both Apple Silicon and Intel chips. Open the DMG file and drag it into the `Applications` folder.
+On macOS devices, Open the DMG file and drag it into the `Applications` folder.
 
 ## Mobile Support
 
@@ -165,13 +167,26 @@ You can get the app for free from Play Store and App Store.
 - To ensure legal and compliant use, it is strictly prohibited to use this tool for any illegal purposes. Any consequences arising from illegal use shall be borne by the user and have nothing to do with the company
 - **We do not collect, store, or share any user packet capture data. All data is stored only on your device and is never uploaded to any server**
 
+## User Manual
+
+For detailed usage instructions and tutorials, please visit our official documentation:
+
+**📖 [User Manual](https://pcp.realsignal.com/tutorials/manual)**
+
+The user manual includes:
+- 📱 **Android** - Complete guide for Android devices
+- 🍎 **iOS** - Step-by-step instructions for iPhone and iPad
+- 💻 **Windows** - Desktop client usage guide
+- 🖥️ **macOS** - Mac application tutorial
+- 🔧 **Emulator** - Emulator configuration and setup
+
 ## Feedback
 
 If you encounter problems during use or have feature suggestions, please feel free to provide feedback through the following methods:
 
-- [Submit Bug Report](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=bug_report.yml)
-- [Submit Feature Request](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=feature_request.yml)
-- [Ask Usage Questions](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=question.yml)
+- [Submit Bug Report](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=bug_report.yml)
+- [Submit Feature Request](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=feature_request.yml)
+- [Ask Usage Questions](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=question.yml)
 
 ## Contact Us
 

@@ -1,5 +1,7 @@
 # Packet Capture Pro
 
+[English Version](README.md)
+
 ⚠️ **注意：Packet Capture Pro 是非开源项目，本仓库仅用来管理需求和用户反馈。**
 
 [Packet Capture Pro](https://pcp.realsignal.com/zh-CN) 是新一代高级跨平台数据抓包工具。Packet Capture Pro 具有全平台、无需 Root、轻量级、高性能、实时同步等优点，理念是让网络调试更快更简单，助力开发者和技术人员提高生产力！现已支持 Android、iOS、Windows 和 macOS 四大平台。
@@ -117,15 +119,15 @@ Packet Capture Pro 官网提供了最新版本的下载：[点我查看](https:/
 
 ### Windows 安装
 
-即将上线
+从官网下载：[点我查看](https://pcp.realsignal.com/zh-CN)
 
 在 Windows 上，您下载的是 `Setup.exe`，按照 Setup 安装程序指引即可。
 
 ### macOS 安装
 
-即将上线
+从官网下载：[点我查看](https://pcp.realsignal.com/zh-CN)
 
-在 macOS 设备上，Packet Capture Pro 提供了 Apple 芯片和 Intel 芯片两种架构的安装包。打开 DMG 文件后拖拽进`应用程序`文件夹即可。
+在 macOS 设备上，打开 DMG 文件后拖拽进`应用程序`文件夹即可。
 
 ## 移动端支持
 
@@ -165,13 +167,26 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 - 为确保合法合规使用，严禁将本工具用于任何非法目的，任何因非法使用所产生的后果，均由使用者自行承担，与本公司无关
 - **我们不收集、存储或共享任何用户抓包数据。所有的数据仅存储在您的设备上，不会上传至任何服务器**
 
+## 使用文档
+
+如需详细的使用说明和教程，请访问我们的官方文档：
+
+**📖 [用户手册](https://pcp.realsignal.com/tutorials/manual)**
+
+用户手册包含：
+- 📱 **Android** - Android 设备完整使用指南
+- 🍎 **iOS** - iPhone 和 iPad 详细操作说明
+- 💻 **Windows** - 桌面端客户端使用指南
+- 🖥️ **macOS** - Mac 应用程序教程
+- 🔧 **Emulator** - 模拟器配置和设置
+
 ## 问题反馈
 
 如果您在使用过程中遇到问题或有功能建议，欢迎通过以下方式反馈：
 
-- [提交 Bug 报告](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=bug_report.yml)
-- [提交功能请求](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=feature_request.yml)
-- [咨询使用问题](https://github.com/PacketCapturePro/packetcapturepro-app/issues/new?template=question.yml)
+- [提交 Bug 报告](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=bug_report.yml)
+- [提交功能请求](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=feature_request.yml)
+- [咨询使用问题](https://github.com/REALSIGNAL/packetcapturepro-app/issues/new?template=question.yml)
 
 ## 联系我们
 
