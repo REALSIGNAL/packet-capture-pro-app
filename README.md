@@ -81,7 +81,7 @@ Packet Capture Pro is a network debugging and development tool designed specific
 ### Screenshots
 
 <p align="center">
-  <img src="public/pc/desktop_01_en.webp.webp" width="100%" alt="desktop 1"/>
+  <img src="public/pc/desktop_01_en.webp" width="100%" alt="desktop 1"/>
 
 </p>
 

@@ -81,7 +81,7 @@ Packet Capture Pro 是专为开发者和技术人员设计的网络调试与开�
 ### 应用截图
 
 <p align="center">
-  <img src="public/pc/desktop_01_zh.webp.webp" width="100%" alt="桌面 1"/>
+  <img src="public/pc/desktop_01_zh.webp" width="100%" alt="桌面 1"/>
 
 </p>
 
