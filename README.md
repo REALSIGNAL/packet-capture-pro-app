@@ -107,13 +107,13 @@ The Packet Capture Pro official website provides the latest version downloads: [
 
 ### Android Installation
 
-<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a>
+<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>
 
 You can get the app for free from Google Play.
 
 ### iOS Installation
 
-<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1234567890" height="60"></a>
+<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
 You can get the app for free from the App Store.
 
@@ -138,8 +138,8 @@ Packet Capture Pro mobile app supports standalone use as well as collaboration w
 
 You can get the app for free from Play Store and App Store.
 
-<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"></a>
-<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1234567890" height="50"></a>
+<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
 ## Use Cases
 

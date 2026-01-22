@@ -107,13 +107,13 @@ Packet Capture Pro 官网提供了最新版本的下载：[点我查看](https:/
 
 ### Android 安装
 
-<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/zh-cn_badge_web_generic.png" height="80"></a>
+<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>
 
 您可以从 Google Play 免费获取应用。
 
 ### iOS 安装
 
-<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83&amp;releaseDate=1234567890" height="60"></a>
+<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
 您可以从 App Store 免费获取应用。
 
@@ -138,8 +138,8 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 
 您可以从 Play Store 和 App Store 免费获取应用。
 
-<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/zh-cn_badge_web_generic.png" height="60"></a>
-<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83&amp;releaseDate=1234567890" height="50"></a>
+<a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
 ## 使用场景
 
