@@ -141,6 +141,13 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 <a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>&nbsp;&nbsp;
 <a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
+### 应用截图
+
+<p align="center">
+  <img src="public/app/screenshot_01_zh.png" width="24%" alt="截图 1"/>
+  
+</p>
+
 ## 使用场景
 
 ### 开发调试

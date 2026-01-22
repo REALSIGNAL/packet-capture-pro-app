@@ -141,6 +141,12 @@ You can get the app for free from Play Store and App Store.
 <a href="https://play.google.com/store/apps/details?id=com.realsignal.packetcapturepro"><img src="public/badges/play.svg" height="45"></a>&nbsp;&nbsp;
 <a href="https://apps.apple.com/us/app/packet-capture-pro-https/id6742767975"><img src="public/badges/ios.svg" height="45"></a>
 
+### Screenshots
+
+<p align="center">
+  <img src="public/app/screenshot_01_en.webp" width="24%" alt="Screenshot 1"/>
+</p>
+
 ## Use Cases
 
 ### Development and Debugging
