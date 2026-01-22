@@ -8,6 +8,11 @@
 
 官方网站：https://pcp.realsignal.com/zh-CN
 
+<p align="center">
+  <img src="public/pc/pcp_zh_01.webp" width="100%" alt="截图 pcp 1"/>
+
+</p>
+
 ## Packet Capture Pro 是什么？
 
 **Packet Capture Pro = 专业抓包工具 + 全链路透视 + 跨平台协同**
@@ -144,7 +149,7 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 ### 应用截图
 
 <p align="center">
-  <img src="public/app/screenshot_01_zh.png" width="100%" alt="截图 1"/>
+  <img src="public/app/screenshot_01_zh.webp" width="100%" alt="截图 1"/>
   
 </p>
 
