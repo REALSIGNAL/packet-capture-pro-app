@@ -144,7 +144,7 @@ You can get the app for free from Play Store and App Store.
 ### Screenshots
 
 <p align="center">
-  <img src="public/app/screenshot_01_en.webp" width="24%" alt="Screenshot 1"/>
+  <img src="public/app/screenshot_01_en.webp" width="100%" alt="Screenshot 1"/>
 </p>
 
 ## Use Cases

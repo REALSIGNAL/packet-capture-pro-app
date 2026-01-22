@@ -144,7 +144,7 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 ### 应用截图
 
 <p align="center">
-  <img src="public/app/screenshot_01_zh.png" width="24%" alt="截图 1"/>
+  <img src="public/app/screenshot_01_zh.png" width="100%" alt="截图 1"/>
   
 </p>
 
