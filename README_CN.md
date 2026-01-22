@@ -9,7 +9,7 @@
 官方网站：https://pcp.realsignal.com/zh-CN
 
 <p align="center">
-  <img src="public/pc/pcp_zh_01.webp" width="100%" alt="截图 pcp 1"/>
+  <img src="public/pc/pcp_01_zh.webp" width="100%" alt="截图 pcp 1"/>
 
 </p>
 
@@ -77,6 +77,13 @@ Packet Capture Pro 是专为开发者和技术人员设计的网络调试与开�
 - [x] 手机到电脑的数据镜像
 - [x] 多类型快速检索
 - [x] 数据导入 & 导出
+
+### 应用截图
+
+<p align="center">
+  <img src="public/pc/desktop_01_zh.webp.webp" width="100%" alt="桌面 1"/>
+
+</p>
 
 ### 2. 调试功能
 

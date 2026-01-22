@@ -9,7 +9,7 @@
 Official Website: https://pcp.realsignal.com/
 
 <p align="center">
-  <img src="public/pc/pcp_en_01.webp" width="100%" alt="pcp 1"/>
+  <img src="public/pc/pcp_01_en.webp" width="100%" alt="pcp 1"/>
 
 </p>
 
@@ -77,6 +77,13 @@ Packet Capture Pro is a network debugging and development tool designed specific
 - [x] Mobile-to-PC data mirroring
 - [x] Multi-type quick search
 - [x] Data import & export
+
+### Screenshots
+
+<p align="center">
+  <img src="public/pc/desktop_01_en.webp.webp" width="100%" alt="desktop 1"/>
+
+</p>
 
 ### 2. Debugging Features
 
