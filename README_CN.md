@@ -210,7 +210,7 @@ Packet Capture Pro 移动端支持单独使用，也支持与桌面端协同使�
 ## 联系我们
 
 - 官方网站：https://pcp.realsignal.com/zh-CN
-- 更多网络工具：[NetSim Pro](https://nsp.realsignal.com/)
+- 更多网络工具：[Network Simulator](https://nsp.realsignal.com/)
 
 ---
 
